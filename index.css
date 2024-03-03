@@ -1,0 +1,24 @@
+#application-table {
+  margin-top: 50px;
+}
+
+.container > .row:first-child {
+  margin-top: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input, select {
+  height: 30px;
+}
+
+input[type=button], input[type=reset] {
+  margin: 2px
+}
+
+h5 > a {
+  text-decoration: none;
+  color: inherit;
+}
