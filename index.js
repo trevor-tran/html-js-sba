@@ -6,7 +6,7 @@ const dropdownOptions = [
   },
   {
     value: "rejected",
-    label: "Applied"
+    label: "Rejected"
   },
   {
     value: "behavioral_interview",
